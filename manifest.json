@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "name": "weather-mcp",
+  "display_name": "Weather MCP",
+  "version": "0.1.0",
+  "description": "Local MCP server that provides weather alerts and forecasts via the National Weather Service API.",
+  "command": "C:\\Users\\bindroo\\.local\\bin\\uv.exe",
+  "args": [
+    "--directory",
+    "C:\\Users\\bindroo\\weather",
+    "run",
+    "weather.py"
+  ],
+  "cwd": "C:\\Users\\bindroo\\weather",
+  "allow_local_network": true,
+  "permissions": [],
+  "author": "Your Name",
+  "icon": ""
+}
